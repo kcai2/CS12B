@@ -1,0 +1,30 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 1\
+2 This program was completed using pair programming.\
+3 Partner: Cedric Linares (cslinare@ucsc.edu)\
+4 Partner: Kevin Cai (kcai2@ucsc.edu)\
+5\
+6 We acknowledge that each partner in a programming pair should\
+7 drive roughly 50% of the time the pair is working together, and\
+8 at most 25% of an individual\'92s effort for an assignment should\
+9 be spent working alone. Any work done by a solitary programmer\
+10 must be reviewed by the partner. The object is to work\
+11 together, learning from each other, not to divide the work into\
+12 two pieces with each partner working on a different piece.\
+13\
+14 Cedric Linares spent __2__ hours working alone.\
+15 Kevin Cai spent __2__ hours working alone.\
+16 We spent __8__ hours working together.\
+17 Cedric Byron spent __4__ hours driving.\
+18 Kevin Cai spent __4__ hours driving.\
+19\
+20 Please grade the work submitted by kcai2@ucsc.edu\
+21 and not the work submitted by cslinare@ucsc.edu.\
+22\
+
+$Id: README,v 1.1 2015-01-20 01:27:51-08 - - $

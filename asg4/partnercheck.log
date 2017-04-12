@@ -1,0 +1,6 @@
+partnercheck: ./PARTNER: format OK:
+user    = apa10
+uid     = 59954
+gecos   = Adam Paz
+home    = /afs/cats.ucsc.edu/users/c/apa10
+shell   = /bin/csh
